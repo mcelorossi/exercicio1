@@ -1,0 +1,8 @@
+package exercicio01;
+
+public class Exercicio01 {
+    public static void main(String[] args) {
+        System.out.println("3^6 = " + SeriesMatematicas.ElevadoA(3, 6));
+        System.out.println("2^3 = " + SeriesMatematicas.ElevadoA(2, 3));
+    }
+}
